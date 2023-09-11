@@ -1,2 +1,2 @@
 # Intelligent-Waste-Classifier-with-Convolutional-Neural-Networks
-Advanced CNN Architecture for Next-Generation Recycling
+Advanced CNN Architecture for Next-Generation Recycling: Single-label, multi-class image classification for recyclable waste, including plastic, glass, paper, and metal, with convolutional neural network (CNN) models. Explored techniques such as data augmentation, L2 regularization, dropouts, and residual connections, as well as leveraging pre-trained models to enhance model accuracy.
